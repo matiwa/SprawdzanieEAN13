@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="114"/>
+        <CursorPos Y="137"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="10">
+      <Position>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <Caret Line="7" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <Caret Line="10" Column="8" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <Caret Line="20" Column="10" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <Caret Line="8" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <Caret Line="44" Column="18" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <Caret Line="77" Column="19" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <Caret Line="46" Column="4" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <Caret Line="73" Column="20" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <Caret Line="75" Column="5" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <Caret Line="97" Column="39" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="SprawdzanieEAN13.lpr"/>
+        <Caret Line="119" Column="19" TopLine="113"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
